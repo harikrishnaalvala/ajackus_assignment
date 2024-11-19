@@ -1,4 +1,4 @@
-### Employee Management System - Frontend
+### User Management Dashboard - Frontend
 This is the frontend of the Employee Management System built using React.js. The frontend communicates with the backend API to manage employee records. It includes features to add, edit, delete, and display employee details.
 
 ### Features
