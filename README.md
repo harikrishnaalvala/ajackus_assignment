@@ -1,11 +1,11 @@
 ### User Management Dashboard - Frontend
-This is the frontend of the Employee Management System built using React.js. The frontend communicates with the backend API to manage employee records. It includes features to add, edit, delete, and display employee details.
+This is the frontend of the User Management Dashboard built using React.js. The frontend communicates with the backend API to manage User records. It includes features to add, edit, delete, and display User details.
 
 ### Features
-Display Employee Records: View a table of employee details including auto-incremented user IDs (simulated on the frontend).
-Add New Employee: Form to add a new employee record to the system.
-Edit Employee Details: Ability to edit existing employee records.
-Delete Employee: Option to delete an employee from the list.
+Display User Records: View a table of User details including auto-incremented user IDs (simulated on the frontend).
+Add New User: Form to add a new User record to the system.
+Edit User Details: Ability to edit existing User records.
+Delete User: Option to delete an User from the list.
 Responsive UI: The application is fully responsive and looks great on desktop, tablet, and mobile screens.
 Error Handling: Display appropriate error messages, such as when an email is already in use during updates.
 
@@ -23,17 +23,17 @@ Fetch API: To communicate with the backend API.
 # Add New User:
 
 Click the Add User button.
-Fill out the form with the employee's details: First Name, Last Name, Email, and Department.
-Click Submit to add the employee to the list.
+Fill out the form with the User's details: First Name, Last Name, Email, and Department.
+Click Submit to add the User to the list.
 
 # Edit User:
 
-Click the Edit button beside any employee's record in the table.
+Click the Edit button beside any User's record in the table.
 Update the details and click Update to save the changes.
 
 # Delete User:
 
-Click the Delete button beside any employee's record to delete it from the system.
+Click the Delete button beside any User's record to delete it from the system.
 # View Users:
 
 Users records will be displayed in a table, including their User ID, First Name, Last Name, Email, and Department.
